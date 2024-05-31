@@ -8,3 +8,12 @@ conda activate venv/
 python  app.py
 
 Use test.pdf file
+
+Deployement in render.com
+
+git add .
+
+git commit -m "fifth commit"
+
+git push origin main
+
